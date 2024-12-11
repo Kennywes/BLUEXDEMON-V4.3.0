@@ -1,22 +1,22 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 
-global.pairingNumber = "2349019529423"
+global.pairingNumber = "50932589537"
  
-global.botNumber = ["2349019529423"]
+global.botNumber = ["50932589537"]
 
 global.anticall = false
 
-global.autoReadChat = false
+global.autoReadChat = true
 
 global.alwaysonline = true
 
 global.autoswview = false
 
-global.public = true
+global.public = false
 
 global.autoreact = false
 
-global.autotyping = false
+global.autotyping = true
 
 global.sign = "〆"
 // ☞ ➻ ➽ ☛ 〆 
