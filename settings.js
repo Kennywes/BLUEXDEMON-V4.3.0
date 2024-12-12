@@ -6,7 +6,7 @@ global.botNumber = ["50932589537"]
 
 global.anticall = false
 
-global.autoReadChat = true
+global.autoReadChat = false
 
 global.alwaysonline = true
 
@@ -18,7 +18,7 @@ global.autoreact = false
 
 global.autotyping = true
 
-global.sign = "〆"
+global.sign = "༆"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 
