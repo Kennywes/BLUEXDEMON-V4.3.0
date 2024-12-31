@@ -22,7 +22,7 @@ global.sign = "〆"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 
-global.bankname = "BLUE"
+global.bankname = "👹DEMON😈"
 
 global.accnumber = "7041039367"
 
