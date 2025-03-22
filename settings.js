@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "50948550767"
+global.pairingNumber = "50943098785"
 
 
 
@@ -28,8 +28,8 @@ global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
-global.bankname = "⃟𝐋𝐎𝐑𝐄𝐍  𓊈🌹𓊉𝚳𝚰𝐊𝚫𝚵𝐋𝐒𝚯𝚴 ᭄۞"
-global.accnumber = "50948550767"
+global.bankname = "𖠁ൢ᭄͢𝐌ꝛ፝֟🌹𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🌹✞🤴🏽🤍"
+global.accnumber = "50943098785"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true
@@ -37,13 +37,13 @@ global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "BOT KENPACHI 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𖠁ൢ᭄͢𝐌ꝛ፝֟🌹𝐃𝚫𝚪𝐊 𝐆𝚪𝚰𝐘𝚯🌹✞🤴🏽🤍"
+global.ownerName = "𖠁ൢ᭄͢𝐌ꝛ፝֟🌹𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🌹✞🤴🏽🤍"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
+global.botName = "BOT KENPACHI 𝐕𝟒" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
